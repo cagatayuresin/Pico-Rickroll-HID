@@ -1,6 +1,6 @@
 # 🖥️ Raspberry Pi Pico HID Rickroll Script
 
-🇬🇧 **[Türkçe okumak için tıklayın](README_TR.md)**  
+🇬🇧 **[Click here to read in English](README.md)**  
 
 ![License](https://img.shields.io/github/license/cagatayuresin/Pico-Rickroll-HID) ![Windows](https://img.shields.io/badge/Windows-Supported-brightgreen?logo=windows) ![macOS](https://img.shields.io/badge/macOS-Supported-brightgreen?logo=apple) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Supported-red?logo=raspberrypi&logoColor=white) ![Pico](https://img.shields.io/badge/Pico-RP2040-orange?logo=raspberrypi&logoColor=white) ![RP2040](https://img.shields.io/badge/RP2040-Microcontroller-blue?logo=raspberrypi&logoColor=white) ![Adafruit](https://img.shields.io/badge/Powered%20by-Adafruit-red?logo=adafruit&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-Compatible-orange?logo=micropython&logoColor=white)
 
